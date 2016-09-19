@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/bootstrap_button_fill.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/bootstrap_button_fill.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/bootstrap_thumbnail_circle.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/bootstrap_thumbnail_circle.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/font_awesome_text.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/font_awesome_text.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/row_title.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/row_title.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/bootstrap_edit_text.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/bootstrap_edit_text.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/bootstrap_button.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/bootstrap_button.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/bootstrap_thumbnail.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/bootstrap_thumbnail.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/row_two_columns.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/row_two_columns.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/res/merged/androidTest/debug/layout/row_title_and_subtitle.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/AndroidBootstrap/build/intermediates/bundles/debug/res/layout/row_title_and_subtitle.xml"
+    }
+]

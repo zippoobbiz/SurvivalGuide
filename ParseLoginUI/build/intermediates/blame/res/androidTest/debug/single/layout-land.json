@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_login_help_fragment.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_login_help_fragment.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_login_fragment.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/androidTest/debug/layout-land/com_parse_ui_parse_signup_fragment.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/bundles/debug/res/layout-land/com_parse_ui_parse_signup_fragment.xml"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/values-es/values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 99,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 99,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 125,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 125,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 97,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 97,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 57,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 57,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 73,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 73,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 92,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 92,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 79,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 79,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 79,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 79,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 90,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 90,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 104,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 964,
+                        "endColumn": 104,
+                        "endOffset": 1064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 61,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-es/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 61,
+                        "endOffset": 1252
+                    }
+                }
+            }
+        ]
+    }
+]

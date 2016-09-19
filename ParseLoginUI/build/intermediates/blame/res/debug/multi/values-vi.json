@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/values-vi/values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/values-vi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 58,
+                        "endOffset": 235
+                    }
+                }
+            }
+        ]
+    }
+]

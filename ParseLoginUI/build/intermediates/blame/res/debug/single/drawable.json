@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_parse_ui_facebook_login_button_background_selector.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/res/drawable/com_parse_ui_facebook_login_button_background_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_parse_ui_twitter_login_button_background_selector.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/res/drawable/com_parse_ui_twitter_login_button_background_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_parse_ui_parse_login_button_background_selector.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/res/drawable/com_parse_ui_parse_login_button_background_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/xiaoduo/Documents/Android-Studio/SurvivalGuideFit4039Assignment/ParseLoginUI/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/res/drawable/com_facebook_button_login_silver_background.xml"
+    }
+]

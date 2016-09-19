@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/background_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/signInIdLayout"
+        android:layout_width="240dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="54dp"
+        android:background="@drawable/user"
+        android:gravity="left"
+        android:orientation="vertical" >
+         <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/signInId"
+            android:layout_width="240dp"
+            android:layout_height="39dp"
+            android:paddingLeft="54dp"
+            android:paddingRight="0dp"
+            android:hint="@string/nick_name"
+             android:maxLength="10"
+            bootstrapbutton:be_roundedCorners="true"
+            bootstrapbutton:be_state="default"
+            android:inputType="text"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:id="@+id/signInPasswordLayout"
+        android:layout_width="240dp"
+        android:layout_height="39dp"
+		android:background="@drawable/lock"
+        android:gravity="left"
+        android:orientation="vertical" >
+         <com.beardedhen.androidbootstrap.BootstrapEditText
+            android:id="@+id/signInPassword"
+            android:layout_width="240dp"
+            android:layout_height="39dp"
+            android:paddingLeft="54dp"
+            android:paddingRight="0dp"
+            android:hint="@string/password"
+             android:maxLength="15"
+            bootstrapbutton:be_roundedCorners="true"
+            bootstrapbutton:be_state="default"
+            android:inputType="textPassword"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/agreementLayout"
+            android:layout_width="240dp"
+            android:layout_height="47dp"
+            android:alpha="0"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/aggrementCheckBox"
+                android:layout_width="wrap_content"
+                android:layout_height="47dp"
+                android:text="@string/i_agree"
+                android:textSize="17sp" >
+            </CheckBox>
+
+            <TextView
+                android:id="@+id/agreement"
+                android:layout_width="wrap_content"
+                android:layout_height="47dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/term_of_service"
+                android:textColor="@color/color_white"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+
+        <com.assignment.xiaoduo.customized.view.flatbutton.FButton
+            android:layout_marginTop="5dp"
+            android:id="@+id/signIn"
+            android:layout_width="240dp"
+            android:layout_height="47dp"
+            android:layout_gravity="left|bottom"
+            android:text="@string/login"
+            android:textColor="@android:color/white"
+            fbutton:buttonColor="@color/fbutton_color_alizarin"
+            fbutton:shadowEnabled="true" />
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:id="@+id/signUpLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/signIn"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/signUpPreText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/new_user_text"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/signUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="@string/sign_up_with_underline"
+                android:textStyle="bold|italic"
+                android:textColor="@color/lightslategray" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

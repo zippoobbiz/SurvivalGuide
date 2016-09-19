@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Monash Survival Guide</string>
+
+    <string name="my_posts">My Post</string>
+    <string name="my_reply">My Reply</string>
+    <string name="my_draft">My Draft</string>
+    <string name="title_section1">Home Page</string>
+    <string name="title_section2">Unit Evaluation</string>
+    <string name="title_section3">Experience</string>
+    <string name="title_section4">Secondary trading</string>
+    <string name="title_section5">Life</string>
+    <string name="title_section6">Activities</string>
+    <string name="title_section7">House renting</string>
+    <string name="title_section8">Job hunting</string>
+    <string name="title_section9">Feedback</string>
+    <string name="title_section10">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="loading">Loading</string>
+
+    <string name="title_activity_login_loading">LoginLoadingActivity</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="list_view_filter_activity">ListViewFilterActivity</string>
+    <string name="compose_activity">ComposeActivity</string>
+    <string name="croper_activity">CroperActivity</string>
+    <string name="title_activity_read_article">ReadArticleActivity</string>
+    <string name="title_activity_read_reply">ReadReplyActivity</string>
+
+    <!-- from old version -->
+
+    <string name="empty_list_msg">No Results</string>
+
+
+    <string name="sign_up_with_underline"><u>Sign up.</u></string>
+    <string name="past_years">years ago</string>
+    <string name="past_months">month ago</string>
+    <string name="past_days">days ago</string>
+    <string name="past_hours">hours ago</string>
+    <string name="past_minutes">minutes ago</string>
+    <string name="just_past">just now</string>
+
+    <string name="agreement">Term of service</string>
+
+
+    <!--choose eara -->
+    <string name="no_data">not found</string>
+
+
+    <!-- Compose fragment -->
+    <string name="add_description">Add description</string>
+    <string name="no_more_than">Can not upload more than</string>
+    <string name="pictures">pictures</string>
+    <string name="input">Input</string>
+
+
+
+    <!-- Main activity -->
+    <string name="take_picture">Take picture</string>
+    <string name="select_from_gallery">Select from gallery</string>
+
+    <string name="empty">Current catalog is empty.</string>
+
+    <!-- Login activity -->
+    <string name="i_agree">I comply with the</string>
+    <string name="term_of_service">service</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="new_user_text">New user? Please</string>
+    <string name="search_hint">search</string>
+    <string name="term_of_service_string">Service</string>
+    <string name="login_with_dot">Login.</string>
+    <string name="old_user">Old user？Directly</string>
+    <string name="sign_up">Sign up</string>
+    <string name="nick_name_with_colon">Nickname:</string>
+    <string name="nick_name">Nickname</string>
+    <string name="characters">characters</string>
+    <string name="password_with_colon">Password:</string>
+
+    <string name="username_exist">Username already exists.</string>
+    <string name="wrong_id_or_password">Unauthorized ID or Password.</string>
+    <string name="time_out">Connection time out, check server ip address.</string>
+    <string name="server_error">Server Error.</string>
+    <string name="password">Password</string>
+    <string name="set_ip_address">Set server IP address.</string>
+    <string name="reply_hint">Input no more than 200c.</string>
+
+
+    <string name="press_again_to_close">Press again to close.</string>
+
+    <string name="maintenance">Servers are in maintenance.</string>
+h    <string name="title_activity_write_reply">WriteReplyActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="add_reply_hint">Add your comment...</string>
+    <string name="comment">Comments</string>
+    <string name="reply">Reply</string>
+    <string name="send">Send</string>
+
+    <string name="parse_app_id">UfhHlFN8D7VKIqtmEEKZmwjrOjesnL3ng4seZmzA</string>
+    <string name="parse_client_key">FFstCZjMU03oeUNOZXwosdiBHJAre4vThIv8zIEX</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="twitter_consumer_key">YOUR_TWITTER_CONSUMER_KEY</string>
+    <string name="twitter_consumer_secret">YOUR_TWITTER_CONSUMER_SECRET</string>
+
+    <string name="profile_logo_content_description">Logo</string>
+    <string name="profile_title_logged_in">Your are logged in as</string>
+    <string name="profile_logout_button_label">Log out</string>
+    <string name="profile_title_logged_out">You must be logged in to view your profile</string>
+    <string name="profile_login_button_label">Log in</string>
+</resources>
